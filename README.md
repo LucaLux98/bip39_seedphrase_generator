@@ -15,4 +15,5 @@ Offline Python tool that generates BIP39-compliant 24-word mnemonic seed phrases
 4. Splits into 11-bit chunks
 5. Maps chunks to BIP39 wordlist
 
-## DISCLAIMER: This project is for educational purposes only. Do NOT use this tool to generate wallets for real funds!
+## DISCLAIMER: 
+This project is for educational purposes only. Do NOT use this tool to generate wallets for real funds.
